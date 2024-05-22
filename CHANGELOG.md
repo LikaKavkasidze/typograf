@@ -1,5 +1,8 @@
 # Changelog
 
+# v7.4.1
+Откат #447 из-за js-ошибки SyntaxError: Invalid regular expression: invalid group specifier name.
+
 # v7.4.0
 - Исправлена некорректная вставка запятой между `ну`, `а` и `но` #447 @denis-bosiy
 - Обновлены dev-зависимости в package.json.
